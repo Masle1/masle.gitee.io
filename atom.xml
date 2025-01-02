@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://masle.top/</id>
+    <title>Masle的小客栈</title>
+    <updated>2025-01-02T12:20:54.933Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Masle</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://masle.top/"/>
+    <link rel="self" href="https://masle.top/atom.xml"/>
+    <subtitle>一起向着未来奔跑和冒险吧</subtitle>
+    <logo>https://testingcf.jsdelivr.net/gh/masle1/masle.github.io@main/pages/img/Masle.1.jpg</logo>
+    <icon>https://masle.top/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Masle</rights>
+    <entry>
+        <title type="html"><![CDATA[高考结束，再启航]]></title>
+        <id>https://masle.top/posts/essay/new-college-start</id>
+        <link href="https://masle.top/posts/essay/new-college-start"/>
+        <updated>2023-07-28T11:25:07.000Z</updated>
+        <content type="html"><![CDATA[<p>距离上次更新博客已经过去一年多了，7月25号收到了大学录取通知书就想着是时候更新一下博客了。</p>
+<br/><p>访问 <a href="https://masle.top/posts/essay/new-college-start" target="_blank">https://masle.top/posts/essay/new-college-start</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-02T12:20:06.599Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客游览指南]]></title>
+        <id>https://masle.top/posts/share/introduction</id>
+        <link href="https://masle.top/posts/share/introduction"/>
+        <updated>2021-12-27T20:39:28.000Z</updated>
+        <content type="html"><![CDATA[<h2>站内链接直达</h2>
+<p><a href="/about/">About Me丨关于我</a> <br /><br>
+<a href="/about/site/">About Site丨关于站点</a> <br /><br>
+<a href="/links/">Friend Links丨我和我的小伙伴们</a> <br /><br>
+<a href="/sub/">Subccribe丨订阅博客及留言板</a> <br /><br>
+为了保证网页的加载速度，图片均经过压缩，可能会有点模糊。</p>
+<blockquote>
+<p>评论区请搭配梯子使用，如遇图片无法加载，网站卡等问题挂梯子皆可解决</p>
+</blockquote>
+<!-- <meting-js
+ id="22712634"
+ server="netease"
+ type="song"
+ theme="#C20C0C">
+</meting-js> -->
+<blockquote>
+<p>感谢你点进我的小站，你一定也是个有趣的灵魂吧！同时也欢迎你订阅我的博客,<a href="https://masle.top/sub/">点击前往订阅页面</a></p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/share/introduction" target="_blank">https://masle.top/posts/share/introduction</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-02T12:20:06.599Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.10.28]]></title>
+        <id>https://masle.top/posts/diary/2023.10.28</id>
+        <link href="https://masle.top/posts/diary/2023.10.28"/>
+        <updated>2023-10-28T23:03:07.000Z</updated>
+        <content type="html"><![CDATA[<p>距离国庆假期结束来到学校正式上学已经过去了一段时间了。这几次文章都不知道起什么标题，所以就直接以日期来命名了。</p>
+<br/><p>访问 <a href="https://masle.top/posts/diary/2023.10.28" target="_blank">https://masle.top/posts/diary/2023.10.28</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-02T12:20:06.598Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.9.10]]></title>
+        <id>https://masle.top/posts/diary/2023.9.10</id>
+        <link href="https://masle.top/posts/diary/2023.9.10"/>
+        <updated>2023-09-10T23:03:07.000Z</updated>
+        <content type="html"><![CDATA[<p>现在闲来无事想着写一篇日记，记录一下开学这几天。</p>
+<br/><p>访问 <a href="https://masle.top/posts/diary/2023.9.10" target="_blank">https://masle.top/posts/diary/2023.9.10</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-02T12:20:06.598Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航行志记-2024]]></title>
+        <id>https://masle.top/posts/essay/summary-2024</id>
+        <link href="https://masle.top/posts/essay/summary-2024"/>
+        <updated>2024-12-30T11:25:07.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>我们都是这个时代的倖存者，所拥有的都是侥幸，失去的都是人生。</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/essay/summary-2024" target="_blank">https://masle.top/posts/essay/summary-2024</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-01T13:33:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航行志记-2023]]></title>
+        <id>https://masle.top/posts/essay/summary-2023</id>
+        <link href="https://masle.top/posts/essay/summary-2023"/>
+        <updated>2023-12-28T11:25:07.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>时间的连续性是不变的 它不被量化堆积 自然也不会说跨年时零点一过就有什么质变 我猜大概也是和往常一样相同的一天 爱你的人一样在身边</p>
+</blockquote>
+<p>今年真的过的好快</p>
+<br/><p>访问 <a href="https://masle.top/posts/essay/summary-2023" target="_blank">https://masle.top/posts/essay/summary-2023</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-01T21:33:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遗忘]]></title>
+        <id>https://masle.top/posts/essay/forget</id>
+        <link href="https://masle.top/posts/essay/forget"/>
+        <updated>2022-05-04T16:14:33.000Z</updated>
+        <content type="html"><![CDATA[<p>现在的我们每天都会接收来自这个世界的海量信息，无论是现实生活还是网络世界。都需要我们在有限的时间内去筛选、去处理这些信息。</p>
+<p>而我不是善于处理这些信息的人，只能尽我所能去的记住那些临近现实、和相对重要的信息。今天我刷视频的时候，偶然看到这样的一段言论，便把它放进这篇文章里面。</p>
+<blockquote>
+<p>现在信息时代，年轻人的机会好像是很多。可是像我这样的普通人，又哪来的能力去发现、鉴别并把握呢？只能像个孩子一样，拼劲全力去接从天上掉下来的糖果。不知道哪一颗是真的，哪一个颗是假的。不过是称热血未凉之时，尽可能地多抓住一些，可能将来的哪一天我会发现自己拼尽全力攥住了这一把全是石子。 --<a href="https://www.bilibili.com/video/BV1dY411w7G3">Zhan I</a></p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/essay/forget" target="_blank">https://masle.top/posts/essay/forget</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-05-04T16:14:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML基础笔记]]></title>
+        <id>https://masle.top/posts/note/html-basic</id>
+        <link href="https://masle.top/posts/note/html-basic"/>
+        <updated>2022-02-10T15:40:08.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>这几天在家很无聊，在各种站点不断的反复横跳。不过昨天在一个叫<a href="https://obsidian.tridiamond.tech/">三钻</a>的站点上，看到了一篇<a href="https://obsidian.tridiamond.tech/post/frontend/fcc-html5-basics.html">共同HTML闯关的文章</a>，“关卡”源于一个叫<strong>freeCodeCamp</strong>的免费学习编程的网站。其中有<a href="https://www.freecodecamp.org/">官方英文版</a>|<a href="https://www.freecodecamp.one/">中文论坛版</a>,其中中文论坛版打不开。所以我只能用英文版，配合大佬三钻的文章来学习。</p>
+<p>闯关的过程同时也是不断搭建一个叫做CatPhotoApp的过程噢~</p>
+<blockquote>
+<p>好记性不如烂键盘2333</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/note/html-basic" target="_blank">https://masle.top/posts/note/html-basic</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-02-10T15:40:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航行志记-2021]]></title>
+        <id>https://masle.top/posts/essay/summary-2021</id>
+        <link href="https://masle.top/posts/essay/summary-2021"/>
+        <updated>2022-01-28T11:22:14.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="https://baike.baidu.com/item/%E8%88%AA%E6%B5%B7%E6%97%A5%E5%BF%97/215707">航海日志|Baidu</a></p>
+</blockquote>
+<p><s>说的那么玄乎</s> 不就是个年度总结嘛~</p>
+<br/><p>访问 <a href="https://masle.top/posts/essay/summary-2021" target="_blank">https://masle.top/posts/essay/summary-2021</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-01-28T21:13:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于使用Pe安装系统的图文教程，适用于新手小白]]></title>
+        <id>https://masle.top/posts/share/how-to-install-windows-by-pe</id>
+        <link href="https://masle.top/posts/share/how-to-install-windows-by-pe"/>
+        <updated>2021-05-01T08:10:35.000Z</updated>
+        <content type="html"><![CDATA[<h3>关于为什么要写这篇教程</h3>
+<p>系统安装这个技能，已经慢慢的成为电脑用户需要学会的一项技能。所以本期教程就写关于使用PE重装系统的教程。</p>
+<h3>为什么是使用PE</h3>
+<p>关于系统安装，目前我知道的有三种方式</p>
+<div class="info">
+<blockquote>
+<ol>
+<li>在电脑系统中安装直接安装</li>
+</ol>
+</blockquote>
+<ol start="2">
+<li>用UltraISO软件将系统镜像写入优盘</li>
+<li>使用PE安装</li>
+</ol>
+</div>
+<br/><p>访问 <a href="https://masle.top/posts/share/how-to-install-windows-by-pe" target="_blank">https://masle.top/posts/share/how-to-install-windows-by-pe</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-01-22T08:10:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静态网站托管平台之碰壁记]]></title>
+        <id>https://masle.top/posts/note/html-website-deployment-platform</id>
+        <link href="https://masle.top/posts/note/html-website-deployment-platform"/>
+        <updated>2021-10-13T14:54:01.000Z</updated>
+        <content type="html"><![CDATA[<p>使用静态网站的一大优点，当然就是不需要购买服务器，有各大平台的page服务可以免费托管你的网站。<br>
+<s>对我这样的穷学生十分友好</s>😎<br>
+但是由于各种因素，我尝试过多种网站托管平台（Gitee/<s>Github</s>/Cloudflare/Conding/Vercel），最终好像也没有找到真正喜欢的。</p>
+<blockquote>
+<p>既然没有最喜欢的，那就找个最好用的~~</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/note/html-website-deployment-platform" target="_blank">https://masle.top/posts/note/html-website-deployment-platform</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-01-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win10精简版纯净系统 专业版20h2 第二篇]]></title>
+        <id>https://masle.top/posts/share/win10-20h2-2</id>
+        <link href="https://masle.top/posts/share/win10-20h2-2"/>
+        <updated>2021-04-24T21:31:16.000Z</updated>
+        <content type="html"><![CDATA[<!-- ![WIN10](https://testingcf.jsdelivr.net/gh/masle1/p@main/img/win10-20h2-2/%E6%A1%8C%E9%9D%A2.png) -->
+<blockquote>
+<p>由于是从上一篇文章的系统改进而来的，所以大部分内容会和上一篇文章一样。上一篇文章的传送门：<a href="https://masle.top/share/win10-20h2/">巴拉拉小魔仙，传送！</a><br>
+这篇文章就主要讲一下新封装的系统对于上篇系统的区别。</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/share/win10-20h2-2" target="_blank">https://masle.top/posts/share/win10-20h2-2</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-06T21:31:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win10精简版纯净系统 专业版20h2]]></title>
+        <id>https://masle.top/posts/share/win10-20h2</id>
+        <link href="https://masle.top/posts/share/win10-20h2"/>
+        <updated>2021-04-11T16:11:47.000Z</updated>
+        <content type="html"><![CDATA[<!-- ![WIN10](https://testingcf.jsdelivr.net/gh/masle1/p@main/img/win10-20h2/588b8f1d92e9e1d518c0832fe0c0904.png) -->
+<blockquote>
+<p>最近封装的系统 ---提供有office版和无office版选择</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/share/win10-20h2" target="_blank">https://masle.top/posts/share/win10-20h2</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-06T21:31:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您的信到了！ -“影视推荐”]]></title>
+        <id>https://masle.top/posts/share/a-letter-for-you</id>
+        <link href="https://masle.top/posts/share/a-letter-for-you"/>
+        <updated>2021-10-06T11:21:19.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>今年看了挺多番剧和电影的，一直想推荐给大家。<br>
+今天早上打开博客一看，已经一个多月没有更新了。便写下了这封“信”</p>
+<p>标题的由来是岩井俊二的《情书》</p>
+<blockquote>
+<p>总有一天，我们会成为别人的回忆，尽力让它美好吧。</p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/share/a-letter-for-you" target="_blank">https://masle.top/posts/share/a-letter-for-you</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-06T11:21:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Post]]></title>
+        <id>https://masle.top/posts/note/my-first-post</id>
+        <link href="https://masle.top/posts/note/my-first-post"/>
+        <updated>2021-04-10T21:33:46.000Z</updated>
+        <content type="html"><![CDATA[<p>My First Post</p>
+<br/><p>访问 <a href="https://masle.top/posts/note/my-first-post" target="_blank">https://masle.top/posts/note/my-first-post</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-10-03T21:33:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的夏日书单]]></title>
+        <id>https://masle.top/posts/diary/summer-book-list</id>
+        <link href="https://masle.top/posts/diary/summer-book-list"/>
+        <updated>2021-08-23T10:37:06.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>在这个漫长的暑假中，这几本书丰富了我的生活。不知不觉中，我感觉我渐渐爱上了阅读<br>
+<s>等等，你这种超级讨厌阅读的人怎么可能突然就爱上了阅读?!</s></p>
+</blockquote>
+<br/><p>访问 <a href="https://masle.top/posts/diary/summer-book-list" target="_blank">https://masle.top/posts/diary/summer-book-list</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Masle</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2021-08-23T10:37:06.000Z</published>
+    </entry>
+</feed>
